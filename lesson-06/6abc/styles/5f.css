@@ -1,0 +1,28 @@
+p {
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.price {
+  font-size: 30px;
+  margin-bottom: 4px;
+}
+
+.currency {
+  font-size: 14px;
+  color: rgb(100, 100, 100);
+}
+
+.change {
+  color: green;
+  margin-bottom: 10px;
+}
+
+.after-hours {
+  color: rgb(100, 100, 100);
+}
+
+.after-hours-change {
+  color: red;
+}
