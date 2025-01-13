@@ -11,7 +11,8 @@ input {
   margin-bottom: 12px;
 }
 
-.first-name-input, .last-name-input {
+.first-name-input,
+.last-name-input {
   width: 131px;
 }
 

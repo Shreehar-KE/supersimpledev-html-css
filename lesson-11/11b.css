@@ -3,7 +3,8 @@
   grid-template-columns: 50px 1fr 75px;
 }
 
-.column-1, .column-3 {
+.column-1,
+.column-3 {
   background-color: lightblue;
 }
 
