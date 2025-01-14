@@ -1,0 +1,75 @@
+div {
+  font-family: Arial;
+}
+
+.tweet-container {
+  display: flex;
+  width: 420px;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.profile-picture-container {
+  margin-right: 10px;
+}
+
+.profile-picture {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 30px;
+}
+
+.tweet-content-container {
+  flex: 1;
+}
+
+.tweet-header {
+  display: flex;
+  margin-bottom: 4px;
+}
+
+.tweet-user {
+  font-weight: bold;
+  margin-right: 4px;
+}
+
+.tweet-username {
+  color: gray;
+}
+
+.tweet-content {
+  line-height: 20px;
+  margin-bottom: 16px;
+}
+
+.video-preview {
+  display: flex;
+  align-items: center;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(200, 200, 200);
+  border-radius: 16px;
+  overflow: hidden;
+  /* not taught in the course*/
+}
+
+.thumbnail-container {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(220, 220, 220);
+  margin-right: 10px;
+}
+
+.video-info-container {
+  flex: 1;
+}
+
+.video-url {
+  color: gray;
+  margin-bottom: 3px;
+}
+
+.video-title {
+  line-height: 22px;
+}
