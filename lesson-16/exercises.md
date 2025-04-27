@@ -1,4 +1,4 @@
-## Exercises - Lesson 16: Finish the Project
+# Exercises - Lesson 16: Finish the Project
 
 ![exercises16-1](https://user-images.githubusercontent.com/70604577/160039866-ee41bdb7-8b71-4adc-b76b-3bb07fdd916e.png)
 ![exercises16-2](./16-2.gif)
